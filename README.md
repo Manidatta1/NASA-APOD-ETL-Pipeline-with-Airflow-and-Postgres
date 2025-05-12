@@ -1,5 +1,3 @@
-# NASA-APOD-ETL-Pipeline-with-Airflow-and-Postgres
-
 # NASA APOD ETL Pipeline with Airflow and PostgreSQL
 
 This project builds a fully automated ETL (Extract, Transform, Load) pipeline to ingest NASA's Astronomy Picture of the Day (APOD) data using **Apache Airflow** and store it in a **PostgreSQL** database. The workflow is containerized using **Docker**, allowing for reproducible and scalable data ingestion.
@@ -46,13 +44,11 @@ This project builds a fully automated ETL (Extract, Transform, Load) pipeline to
 
 1. Clone the repo:
 
-```bash
 git clone https://github.com/Manidatta1/NASA-APOD-ETL-Pipeline-with-Airflow-and-Postgres.git
 cd NASA-APOD-ETL-Pipeline-with-Airflow-and-Postgres
 
 2. Start the Services
 
-```bash
 docker compose up
 
 3. Access Airflow UI at: http://localhost:8080
@@ -60,6 +56,7 @@ docker compose up
 ---
 
 ## Author
+
 ManiDatta
 Master’s in Data Science @ University of Colorado Boulder
 
