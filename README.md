@@ -58,5 +58,6 @@ docker compose up
 ## Author
 
 ManiDatta
+
 Master’s in Data Science @ University of Colorado Boulder
 
