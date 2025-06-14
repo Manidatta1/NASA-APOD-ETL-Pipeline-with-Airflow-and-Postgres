@@ -13,6 +13,10 @@ This project builds a fully automated ETL (Extract, Transform, Load) pipeline to
 - Runs locally inside Docker containers
 
 ---
+
+![My Profile](NASA.png)
+
+---
 ## Tools & Technologies
 
 - Apache Airflow
